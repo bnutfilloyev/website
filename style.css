@@ -14,10 +14,10 @@
     height: 100vh;
     width: 100vw;
   }
-  #apple,
-  #twitter,
+  #telegram,
+  #instagram,
   #github,
-  #facebook {
+  #linkedin {
     font-size: 8em;
     background-color: #18191f;
     color: #fff;
@@ -32,10 +32,10 @@
     text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff, 0 0 150px #0072ff,
       0 0 200px #0072ff;
   }
-  #twitter {
+  #telegram {
     animation-delay: 0.3s;
   }
-  #facebook {
+  #linkedin {
     animation-delay: 0.7s;
   }
   #github {
